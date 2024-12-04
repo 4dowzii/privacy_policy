@@ -1,0 +1,30 @@
+Gizlilik Politikası (Privacy Policy)
+Bu gizlilik politikası, botun kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklar. Botunuzu kullanarak, bu politikayı kabul etmiş sayılırsınız.
+
+1. Toplanan Veriler
+Bot, kullanıcılar ve sunucularla etkileşim sağlamak için aşağıdaki bilgileri toplayabilir:
+
+Kullanıcı Kimliği (User ID): Moderasyon komutları ve kullanıcıyla etkileşim için kullanılır.
+Sunucu Kimliği (Server ID): Botun hangi sunucularda çalıştığını belirlemek için kullanılır.
+Mesaj İçeriği (isteğe bağlı): Moderasyon amaçlı komutların çalıştırılması durumunda toplanabilir (ör. yasaklanan kelimeler).
+Bot, yalnızca moderasyon işlevselliği sağlamak amacıyla gereken minimum veriyi toplar.
+
+2. Verilerin Kullanımı
+Toplanan veriler yalnızca botun temel işlevlerini sağlamak için kullanılır (ör. moderasyon kayıtları, uyarılar).
+Veriler, Discord sunucusu dışında bir amaç için kullanılmaz.
+Kullanıcı veya sunucuya özel veriler hiçbir şekilde ticari veya üçüncü taraflarla paylaşılmaz.
+3. Verilerin Saklanması
+Toplanan veriler geçici olarak saklanır ve yalnızca gerektiğinde işlenir.
+Gereksiz hale gelen veriler düzenli olarak silinir.
+4. Verilerin Paylaşımı
+Bot geliştiricisi, kullanıcı verilerini herhangi bir üçüncü tarafla paylaşmaz.
+Ancak, Discord’un hizmet şartlarına uygun olarak, yetkili makamların talebi durumunda işbirliği yapılabilir.
+5. Kullanıcı Hakları
+Kullanıcılar, botun kendileriyle ilgili topladığı veriler hakkında bilgi talep edebilir ve bu verilerin silinmesini isteyebilir. Bunun için bot geliştiricisiyle iletişime geçebilirsiniz.
+
+6. Değişiklikler
+Bu gizlilik politikası önceden bildirim yapılmaksızın değiştirilebilir. Güncellenen politika GitHub deposunda yayımlanacaktır.
+
+7. İletişim
+Bu politika veya veri güvenliğiyle ilgili sorularınız için geliştiriciye ulaşabilirsiniz:
+Geliştirici: Adowwz_ <@696819729259560991>
